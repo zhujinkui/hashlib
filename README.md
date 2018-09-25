@@ -1,0 +1,2 @@
+# hashlib
+Hashlib是一个小型PHP库，可以从数字中生成类似YouTube的ID，当您不想将数据库ID暴露给用户时使用它。
